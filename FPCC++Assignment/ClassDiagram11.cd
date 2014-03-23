@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="AccountLinkedList">
+    <Position X="7.75" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAABAAAgAAAgoAAAACACAAAAEAIAAA=</HashCode>
+      <FileName>AccountLinkedList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AccountNode">
+    <Position X="10.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAAIAAAA=</HashCode>
+      <FileName>AccountNode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Customer">
+    <Position X="13" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AEEkAQEEACFBQAAAAAAEAAAAAQQQAQJEAAAgCAAAAAA=</HashCode>
+      <FileName>Customer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerLinkedList">
+    <Position X="7.75" Y="3.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAgAAAAAAAAAAAAEAAgAKQBAAAAAAAggAAAAA=</HashCode>
+      <FileName>CustomerLinkedList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerNode">
+    <Position X="10.25" Y="3.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAA=</HashCode>
+      <FileName>CustomerNode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Transaction">
+    <Position X="10.75" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AACAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Transaction.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Account">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>iEQAAgIAAAggAAAAAgQigQAIAAAABAAAAAEAAgAAAEg=</HashCode>
+      <FileName>Account.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CurrentAndSavings">
+    <Position X="5.25" Y="1.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="CurrentAndSavings::accounts">
+        <TypeIdentifier>
+          <NewMemberFileName>CurrentAndSavings.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAQAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CurrentAndSavings.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Junior">
+    <Position X="3" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Junior.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MortgageAndLoan">
+    <Position X="3" Y="2.75" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="MortgageAndLoan::loans">
+        <TypeIdentifier>
+          <NewMemberFileName>MortgageAndLoan.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAgAAAAAAAIAABAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MortgageAndLoan.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

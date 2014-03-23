@@ -1,0 +1,6 @@
+Withdrawal - Sam Ple: Current Account.
+Amount: 100
+New Balance: -100
+Deposit - Toby Lerone: Mortgage.
+Amount: 1000
+New Balance: -74500
